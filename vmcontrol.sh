@@ -98,7 +98,7 @@ fi
 # user defined parameters
 #-------------------------------------------------------------------------------
 cmd=$1
-vms="/tmp/vms.log"
+vms="vms.log"
 
 #main
 
